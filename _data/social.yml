@@ -1,38 +1,38 @@
 # Icons on the footer
 rss: false
-email_address:
-behance:
-bitbucket:
-dribbble:
-facebook:
-flickr:
-gitlab:
-github:
-instagram:
-keybase:
-linkedin:
-pinterest:
-reddit:
-soundcloud:
-stack_overflow:
-stack_exchange:
-steam:
-tumblr:
-twitter:
-vimeo:
-wordpress:
+email_address: false
+behance: false
+bitbucket: false
+dribbble: false
+facebook: false
+flickr: false
+gitlab: false
+github: false
+instagram: martinscreationsquared
+keybase: false
+linkedin: false
+pinterest: false
+reddit: false
+soundcloud: false
+stack_overflow: false
+stack_exchange: false
+steam: The Truest Samaroo
+tumblr: false
+twitter: false
+vimeo: false
+wordpress: false
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
-tiktok:
+twitch: Callsignecho419
+tiktok: Callsigneco419
 
 # Share button options
 share:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
-  reddit: true
-  linkedin:
-  wordpress:
-  email: true
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
+  wordpress: false
+  email: false
